@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deepikabandi
 -    I'm a beginner looking for Entry level opportunities
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python Django
-- 💞️ I’m looking to collaborate on python developers community
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning devops
+- 💞️ I’m looking to collaborate on Devops Engineers community
 
 
 <!---
